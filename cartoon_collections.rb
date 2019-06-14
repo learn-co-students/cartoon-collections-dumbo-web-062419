@@ -1,4 +1,8 @@
-def roll_call_dwarves# code an argument here
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+def roll_call_dwarves(dwarves)
+  new_dwarves = []
+  new_dwarves.each do |x|
+  puts { |x, i| print "#{x ! "}"
   # Your code here
 end
 
